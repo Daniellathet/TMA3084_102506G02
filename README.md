@@ -1,4 +1,4 @@
-# MA3084 SELAB - Lab 1: Pizza Order Calculator
+# TMA3084 SELAB - Lab 1: Pizza Order Calculator
 
 ## Description
 
